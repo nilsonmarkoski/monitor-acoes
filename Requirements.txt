@@ -1,0 +1,14 @@
+streamlit
+yfinance
+pandas_ta
+twilio
+matplotlib
+pandas
+altair
+numpy
+chart_studio
+plotly
+datetime
+hmmlearn
+os
+seaborn
