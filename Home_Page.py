@@ -1,5 +1,5 @@
 import streamlit as st
-#import yfinance as yf
+import yfinance as yf
 from datetime import datetime
 
 st.set_page_config(
