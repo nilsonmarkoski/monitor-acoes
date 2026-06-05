@@ -10,7 +10,7 @@ st.title("📈 Monitor de Ações — B3")
 st.markdown("---")
 
 st.markdown("""
-### Bem-vindo ao painel de acompanhamento da Bolsa brasileira
+### Bem-vindo ao painel de acompanhamento da Bolsa brasileira b3
 
 Use o menu lateral para navegar entre as páginas:
 
